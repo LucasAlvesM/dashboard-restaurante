@@ -1,2 +1,2 @@
 # dashboard-restaurante 
-![DashBoard Acessavel aqui!](:https://lucasalvesm.github.io/dashboard-restaurante/ "DashBoard")
+[I'm an inline-style link](https://lucasalvesm.github.io/dashboard-restaurante/)
